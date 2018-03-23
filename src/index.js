@@ -24,21 +24,9 @@ const App = () => (
     <Icon icon={NAVICONS.BULK_ACTIONS} />
     <Icon icon={NAVICONS.DATA_IMPORT} />
     <Icon icon={NAVICONS.DATA_IMPORT} />
-    <Icon icon={NAVICONS.HELP} />
-    <Icon icon={NAVICONS.LOGO} />
-    <Icon icon={NAVICONS.REPORTS} />
-    <Icon icon={NAVICONS.REQUESTS} />
-    <Icon icon={NAVICONS.RESEARCH} />
-    <Icon icon={NAVICONS.STORIES} />
-    <Icon icon={NAVICONS.SUGGESTIONS} />
-    <Icon icon={NAVICONS.WORKSPACES} />
     <h1>Graph Icons</h1>
     <Icon icon={GRAPHICONS.FILE_BYTES} />
     <Icon icon={GRAPHICONS.GEO_NLOC} />
-    <Icon icon={GRAPHICONS.HASH_MD5} />
-    <Icon icon={GRAPHICONS.HASH_SHA1} />
-    <Icon icon={GRAPHICONS.HASH_SHA256} />
-    <Icon icon={GRAPHICONS.HASH_SHA512} />
   </div>
 );
 
